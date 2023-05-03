@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PushNotification</string>
+    <string name="msg_token_fmt">msg token fmt : $%1s</string>
+    <string name="default_notification_channel_id">Push_Notification_Id</string>
 </resources>
